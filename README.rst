@@ -9,7 +9,7 @@ use `OR-Tools <https://developers.google.com/optimization/>`_ to model and then 
 **Dispatchers**
 	
 	* **Hybrid CP-based dispatchers**
-		* [HCP/hcp_scheduler.py] (HCP)
+		*`HCP <HCP/hcp_scheduler.py>`_ 
 		* [HCP/hcp1_scheduler.py] (HCP\ :sub:`1`\)
 		* [HCP/hcp2_scheduler.py] (HCP\ :sub:`2`\)
 		* [HCP/hcp3_scheduler.py] (HCP\ :sub:`3`\)  
