@@ -1,3 +1,0 @@
-# CP Dispatchers
-
-The current repo ...
