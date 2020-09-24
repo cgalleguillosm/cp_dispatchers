@@ -8,8 +8,8 @@ The dispatchers presented below correspond to the indicated publications. All of
 **Dispatchers**
 
 	* A Constraint Programming-based Job Dispatcher for Modern HPC Systems and Applications `link <#>`_
-		* `HCP'19 <PCP20/hcp19_dispatcher.py>`_
-		* `PCP'19 <PCP20/pcp19_dispatcher.py>`_
+		* `HCP'19 <HCP/hcp3_scheduler.py>`_ (idem as HCP_3 from Constraint Programming-based Job Dispatching for Modern HPC Applications)
+		* `PCP'19 <PCP/pcp3_scheduler.py>`_ (idem as PCP_3 from Constraint Programming-based Job Dispatching for Modern HPC Applications)
 		* `PCP'20 <PCP20/pcp20_dispatcher.py>`_
 
 	*  Constraint Programming-based Job Dispatching for Modern HPC Applications `link <https://link.springer.com/chapter/10.1007/978-3-030-30048-7_26>`_
